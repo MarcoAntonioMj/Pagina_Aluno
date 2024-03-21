@@ -1,0 +1,50 @@
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  h3 {
+    text-align: justify;
+  }
+  
+  footer {
+    margin-top: 20px;
+    text-align: center;
+  }
+  
+  /* Estilos para o botão */
+  .button-wrapper {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .button {
+    display: inline-block;
+    background-color: #007bff; /* Cor de fundo azul */
+    color: #fff; /* Cor do texto branco */
+    padding: 10px 20px; /* Espaçamento interno */
+    font-size: 16px;
+    border-radius: 5px;
+    text-decoration: none; /* Remove sublinhado do link */
+    transition: background-color 0.3s ease; /* Transição suave de cor de fundo */
+  }
+  
+  .button:hover {
+    background-color: #0056b3; /* Cor de fundo azul mais escura ao passar o mouse */
+  }
+  
